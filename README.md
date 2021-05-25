@@ -1,4 +1,4 @@
-# pytest-ethereum
+# pytest-vapory
 
 [![Join the chat at https://gitter.im/ethereum/pytest-ethereum](https://badges.gitter.im/ethereum/pytest-ethereum.svg)](https://gitter.im/ethereum/pytest-ethereum?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 [![Build Status](https://circleci.com/gh/ethereum/pytest-ethereum.svg?style=shield)](https://circleci.com/gh/ethereum/pytest-ethereum)
